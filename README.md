@@ -1,4 +1,5 @@
 <h1 align="left">Hi! I'm Leonardo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<img align="right" width="300" src="https://c.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
 <h3 align="left">A passionate developer from Brazil.</h3>
 
 - 🔭 I’m currently working on Facil Consulta, a startup from Brazil.
@@ -8,8 +9,6 @@
 - 📫 How to reach me: **leonardo.contato03@gmail.com**
 
 - ⚡ What I like to do: **I like so much learning new things, mostly about programming.**
-
-<img align="right" width="300" src="https://c.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
