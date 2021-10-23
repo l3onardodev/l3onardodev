@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Leonardo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<img align="right" width="300" src="https://c.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
+<img align="right" width="500" src="https://c.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
 <h3 align="left">A passionate developer from Brazil.</h3>
 
 - 🔭 I’m currently working on Facil Consulta, a startup from Brazil.
