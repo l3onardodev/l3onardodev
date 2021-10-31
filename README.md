@@ -2,7 +2,7 @@
 <img align="right" width="400" src="https://c.tenor.com/rA6ler4OflUAAAAC/zankyou-no.gif" />
 <h3 align="left">A passionate developer from Brazil.</h3>
 
-- 🔭 I’m currently working on Facil Consulta, a startup from Brazil.
+- 🔭 I’m currently working at Facil Consulta, a startup from Brazil.
 
 - 🌱 I’m currently learning Front-end and Back-end stuff.
 
